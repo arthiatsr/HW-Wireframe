@@ -1,0 +1,9 @@
+.header1, .nav1{
+    position: relative;
+    width: 1000px;
+    background-color: lightgray;
+    text-align: center;
+    height: 75px;
+    left: 80px;
+
+}
